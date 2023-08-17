@@ -1,6 +1,5 @@
 import streamlit as st
 import numpy as np
-import sklearn
 from sklearn import datasets
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.svm import SVC
